@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VK_GIF</string>
+    <string name="gyphy_title">Gyphy title: </string>
+    <string name="username_title">\"Username: \"</string>
+    <string name="unknown">unknown</string>
+    <string name="rating_title">\"Rating: \"</string>
+    <string name="description_title">\"Description: \"</string>
+    <string name="create_datetime_title">\"Create datetime: \"</string>
+</resources>
